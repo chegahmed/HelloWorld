@@ -10,3 +10,4 @@ this is multiplication methode
 
 this is Devision methode
 
+this is module methode
