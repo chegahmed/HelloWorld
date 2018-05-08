@@ -3,11 +3,3 @@ hello world
 This change was made by user 1
 
 This is line 3 
-
-this ligne for tag
-
-this is multiplication methode
-
-this is Devision methode
-
-this is module methode
